@@ -64,4 +64,4 @@ This repository contains an *interactive Weather Dashboard* built using live API
  *Business Intelligence:* Transforming raw weather data into decision-making insights. ---
  
  ## 🖼 Dashboard Preview 
- ![Weather Dashboard Screenshot](./Weather_Report.png) 
+ ![Weather Dashboard Screenshot](https://github.com/kaushikmanish34/WEATHER-REPORT-DASHBOARD/blob/main/Weather%20Report.png) 
